@@ -89,6 +89,10 @@ section{
 [cont-section-one-1]{
     background-image: linear-gradient(90deg, #37302C 0%, #0D0D12 100%);
 }
+[cont-section-one-1] img{
+    height: 450px;
+    width: 630px;
+}
 [cont-section-one-2]{
     background-color: #DDE3E7 !important;
     padding-bottom: 5px;
@@ -133,7 +137,8 @@ section{
 [cont-section-one-2] img{
     position: relative;
     display: flex;
-    width: 1083px; 
+    width: 1083px;
+    height: 450px; 
 }
 /**************************
 ******* SECTION TWO *******
